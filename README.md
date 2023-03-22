@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 🤔 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=天天有数据出新意;年年有文章中顶刊&center=true&size=27&color=00FFFF"> </a> </h1>
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Doggerlas" /> </div>
+# <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Doggerlas" /> </div>
 
 <div align="center">  
 
